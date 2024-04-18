@@ -1,5 +1,5 @@
-# PA3_CS6700
-Programming Assignment 3 
+# PA2_CS6700
+Programming Assignment 2 
 Course: CS6700 IITM
 
 Team Members (2): 
